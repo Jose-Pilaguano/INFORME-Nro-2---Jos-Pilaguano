@@ -31,7 +31,7 @@ MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/116677175/202307125-e4ad7359-17e2-4e8d-9abf-7b386cf4d3f9.png)
 
-![image](https://user-images.githubusercontent.com/116677175/202307184-67ca3a68-0dab-4690-a007-dee71a3aff1e.png)
+![WhatsApp Image 2022-11-17 at 11 54 09](https://user-images.githubusercontent.com/116677175/202508546-d315e956-9eef-4689-a68e-7383fb6bda51.jpeg)
 
 ![image](https://user-images.githubusercontent.com/116677175/202307259-d81341b7-4129-419b-b4d1-97c7ced5d10a.png)
 
