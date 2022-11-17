@@ -47,6 +47,10 @@ Amperes-hora nominales de baterías
 
 Los ampere-hora nominales significan que la batería puede suministrar un promedio de un ampere de corriente hacia una carga durante una hora con la salida de voltaje nominal
 
+RESOLUCIÓN EJERCICIOS PARES CAPITULO 3 Y 4.
+
++-+-+-+-+-+-+-+-+-+-CAPITULO 3.+-+-+-+-+-+-+-+-+-+-
+
 SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 ![image](https://user-images.githubusercontent.com/116677175/202311243-427d8209-b049-4bfa-97c5-c301196e02c3.png)
@@ -75,7 +79,7 @@ SECCIÓN 3–5 Introducción a la localización de fallas
 
 ![image](https://user-images.githubusercontent.com/116677175/202311897-e7316fcb-1a5a-4a69-a2b8-8a813f119ec3.png)
 
-CAPITULO 4
++-+-+-+-+-+-+-+-+-+-CAPITULO 4+-+-+-+-+-+-+-+-+-+-
 
 SECCIÓN 4–1 Energía y potencia
 
